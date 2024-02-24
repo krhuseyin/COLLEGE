@@ -14,4 +14,4 @@ A responsive College website has been developed.
 
 # GIF
 
-![](image/vid6.mp4)
+![](image/vid.gif)
